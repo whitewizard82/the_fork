@@ -1,5 +1,5 @@
 clear all
 clc
-x=-100:.1:10
+x=-200:.1:20
 y=abs(x)
 plot(x,y)
